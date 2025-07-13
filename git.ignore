@@ -1,3 +1,6 @@
-/generated_cvs
-cv_data.json
+*/generated_cvs
 cv.md
+*.csv
+*.json
+*.xml
+*.iml
